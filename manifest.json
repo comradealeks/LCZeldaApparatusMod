@@ -1,0 +1,9 @@
+{
+    "name": "ZeldaApparatus",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Maybe you will get lucky...",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
